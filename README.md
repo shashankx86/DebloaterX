@@ -8,7 +8,7 @@ Disable "App Vault", "Swipe up for google", "Wallpaper Carousel", "Find Device",
 (Don't confuse Mi Sync and Google Sync though)
 ```
 
-Support ROMs: MiUi, Realme stock, Samsung stock, Gapps
+##Support ROMs: MiUi, Realme stock, Samsung stock, Gapps
 
 # How to use?
 ```bash
