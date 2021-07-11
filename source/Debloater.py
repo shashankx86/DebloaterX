@@ -3,7 +3,7 @@ import time
 import colorama
 from colorama import Back, Fore, Style
 
-os.system("title = Debloater Made by @shashankx86")
+os.system("title = DebloaterX Made by @shashankx86")
 
 colorama.init(autoreset=True)
 os.system("@echo off")
