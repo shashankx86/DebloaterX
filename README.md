@@ -17,7 +17,7 @@ Disable "App Vault", "Swipe up for google", "Wallpaper Carousel", "Find Device",
  > Now in developer option find "usb debugging"
  > turn it on and allow permission
  > now let your device connected to pc
- > and run "debloater.exe" as admin
+ > and run "DebloaterX.exe" as admin
  > and select type 1 for auto remove (hit enter) 
  > and wait for script to debloat you device
 ```
@@ -53,4 +53,4 @@ Its basically automated debloater script for android to debloat your device and 
 ## Download
 - [Direct](https://github.com/shashankx86/Debloater/files/6796496/Debloater_exe.zip)
 - AnddroidFileHost (Comming soon)
-- [Github](https://github.com/shashankx86/Debloater/releases/)
+- [Github](https://github.com/shashankx86/DebloaterX/releases/)
