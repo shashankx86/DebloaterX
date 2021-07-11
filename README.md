@@ -51,6 +51,6 @@ Its basically automated debloater script for android to debloat your device and 
  > at down part you will see developer option
 ```
 ## Download
-[Direct](https://github.com/shashankx86/Debloater/files/6796496/Debloater_exe.zip)
-AnddroidFileHost (Comming son)
-[Github](https://github.com/shashankx86/Debloater/releases/)
+- [Direct](https://github.com/shashankx86/Debloater/files/6796496/Debloater_exe.zip)
+- AnddroidFileHost (Comming son)
+- [Github](https://github.com/shashankx86/Debloater/releases/)
