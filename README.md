@@ -28,7 +28,7 @@ Its basically automated debloater script for android to debloat your device and 
  > at down part you will see developer option
 ```
 <div align="center">
-    <img src="https://i.imgur.com/4qcnZde.jpg"/>
+    <img src="https://i.imgur.com/QZ9Hbqo.jpg"/>
 </div>
 
 
