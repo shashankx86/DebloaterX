@@ -50,4 +50,4 @@ Its basically automated debloater script for android to debloat your device and 
  > now go to the "Additional settings"
  > at down part you will see developer option
 ```
-
+## Download
