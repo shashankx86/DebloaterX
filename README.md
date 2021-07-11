@@ -1,6 +1,14 @@
 # Debloater for Android users
 #### Done by @Hex_101 @XDA
 
+
+Prerequisites:
+```bash
+Disable "App Vault", "Swipe up for google", "Wallpaper Carousel", "Find Device", "Mi Sync"(Don't confuse Mi Sync and Google Sync though)
+```
+
+Support ROMs: MiUi, Realme stock, Samsung stock, Gapps
+
 # How to use?
 ```bash
  > First you have to enable developer option in your android smart phone
@@ -30,6 +38,7 @@ Its basically automated debloater script for android to debloat your device and 
 <div align="center">
     <img src="https://i.imgur.com/QZ9Hbqo.jpg"/>
 </div>
+
 
 ```
  If redmi
