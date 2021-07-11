@@ -4,7 +4,8 @@
 
 Prerequisites:
 ```bash
-Disable "App Vault", "Swipe up for google", "Wallpaper Carousel", "Find Device", "Mi Sync"(Don't confuse Mi Sync and Google Sync though)
+Disable "App Vault", "Swipe up for google", "Wallpaper Carousel", "Find Device", "Mi Sync"
+(Don't confuse Mi Sync and Google Sync though)
 ```
 
 Support ROMs: MiUi, Realme stock, Samsung stock, Gapps
@@ -28,7 +29,7 @@ Its basically automated debloater script for android to debloat your device and 
 
 #### Enable USB Debugging
 ```
-  If samsung
+ If samsung
  
  open settings > go to the about device > then click on the software info
  > you will see "build number" > tap on it 7 times!
