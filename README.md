@@ -52,5 +52,5 @@ Its basically automated debloater script for android to debloat your device and 
 ```
 ## Download
 - [Direct](https://github.com/shashankx86/DebloaterX/files/6797098/DebloaterX_exe.zip)
-- AndroidFileHost (Comming soon)
+- [AndroidFileHost (AFH)](https://androidfilehost.com/?fid=14943124697586364762)
 - [Github](https://github.com/shashankx86/DebloaterX/releases/)
