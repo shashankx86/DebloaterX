@@ -1,4 +1,4 @@
-# Debloater for Android users
+# Debloater for Android users [NoRoot]
 #### Done by @Hex_101 @XDA
 
 
