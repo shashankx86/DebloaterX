@@ -28,7 +28,7 @@ Its basically automated debloater script for android to debloat your device and 
 ```
 
 #### Enable USB Debugging
-```
+```bash
  If samsung
  
  open settings > go to the about device > then click on the software info
