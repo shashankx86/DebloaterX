@@ -41,7 +41,7 @@ Its basically automated debloater script for android to debloat your device and 
 </div>
 
 
-```
+```bash
  If redmi
 
  > open settings
