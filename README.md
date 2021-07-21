@@ -6,6 +6,7 @@ Prerequisites:
 ```bash
 Disable "App Vault", "Swipe up for google", "Wallpaper Carousel", "Find Device", "Mi Sync"
 (Don't confuse Mi Sync and Google Sync though)
+and most important thing "brain"
 ```
 
 ## Support ROMs: MiUi, Realme stock, Samsung stock, Gapps
