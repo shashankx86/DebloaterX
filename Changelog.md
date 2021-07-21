@@ -1,6 +1,6 @@
 # DebloaterX Changelog
 
--- v1.0
+- v1.0
   - Initial release
 ### Download
 - [Direct](https://github.com/shashankx86/DebloaterX/files/6797098/DebloaterX_exe.zip)
