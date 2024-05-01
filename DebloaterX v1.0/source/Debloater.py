@@ -171,7 +171,7 @@ os.system("powershell.exe res/adb.exe shell pm uninstall -k com.samsung.android.
 os.system("powershell.exe res/adb.exe shell pm uninstall -k com.samsung.android.bixbyvision.framework ")
 os.system("timeout /t 2 /nobreak > nul ")
 
-print (Fore.CYAN + "Realme apps, ignore if u dont have redmi device and wait")
+print (Fore.CYAN + "Realme apps, ignore if u dont have realme device and wait")
 
 os.system("powershell.exe res/adb.exe shell pm uninstall -k com.coloros.compass2")
 os.system("powershell.exe res/adb.exe shell pm uninstall -k com.heytap.market ")
